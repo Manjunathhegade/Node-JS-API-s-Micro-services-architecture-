@@ -1,2 +1,2 @@
 # Node-JS-API-s-Micro-services-architecture-
-Shopping cart api using node js and dynamo db 
+Shopping cart api using Node js and MongoDB 
